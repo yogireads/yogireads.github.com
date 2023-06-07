@@ -1,1 +1,1 @@
-# yogireads.github.com
+# yogireads.github.io
